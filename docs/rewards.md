@@ -6,7 +6,9 @@ sidebar_position: 5
 
 After [staking](stake) crypto, you'll receive daily rewards to your [WARD address](https://help.wardenprotocol.org/spaceward/connect-your-wallet).
 
-:::tip Please note that you'll be able to unstake and claim your rewards only after the Warden Protocol and YieldWard go Mainnet. :::
+:::tip 
+Please note that you'll be able to unstake and claim your rewards only after the Warden Protocol and YieldWard go Mainnet. 
+:::
 
 ## Currency
 

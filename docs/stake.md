@@ -11,7 +11,9 @@ We currently support the following cryptocurrencies:
 -   **ETH**, **USDC**, **USDT**
 -   [WARP](https://docs.wardenprotocol.org/tokens/warp-token/warp) (coming soon)
 
-:::tip Please note that you'll be able to unstake and claim your rewards only after the Warden Protocol and YieldWard go Mainnet. :::
+:::tip 
+Please note that you'll be able to unstake and claim your rewards only after the Warden Protocol and YieldWard go Mainnet. 
+:::
 
 ## Stake ETH/USDC/USDT
 

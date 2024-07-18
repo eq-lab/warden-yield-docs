@@ -15,12 +15,7 @@ To run docs locally and preview your contribution, do the following:
 2. Install dependencies:
 
     ```bash
-    cd docs/
     npm install
-    ```
-
-    ```bash
-    yarn
     ```
 
 3. Run docs in developer mode to preview your changes locally in a browser window. The website will automatically update to reflect your changes.
@@ -29,18 +24,10 @@ To run docs locally and preview your contribution, do the following:
     npm run start
     ```
 
-    ```bash
-    yarn start
-    ```
-
 4. To run a spellcheck on the documentation, run this:
 
     ```bash
     npm run spellcheck
-    ```
-
-    ```bash
-    yarn spellcheck
     ```
 
     Use the up/down arrows to navigate through the suggestions, and press `Enter` to accept it. Ensure that the spellcheck passes before submitting a pull request.
@@ -49,8 +36,4 @@ To run docs locally and preview your contribution, do the following:
 
     ```bash
     npm run build
-    ```
-
-    ```bash
-    yarn build
     ```

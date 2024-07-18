@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Stake
 
+test
+
 YieldWard allows you to **stake** (**deposit**) crypto and earn [rewards](rewards) to your Warden address.
 
 We currently support the following cryptocurrencies:

@@ -17,7 +17,9 @@ The currency of rewards depends on the currency you've staked:
 -   By staking **ETH**, **USDC**, or **USDT**, you'll earn **LP tokens** – YieldWard Liquidity Provider Tokens.
 -   By staking [WARP](https://docs.wardenprotocol.org/tokens/warp-token/warp) (coming soon), you'll earn [WARD](https://docs.wardenprotocol.org/tokens/ward-token/warp).
 
-:::note Liquidity provider (LP) tokens are a reward mechanism to facilitate transactions between other different types of currencies. Decentralized exchanges rely on liquidity providers to ensure there is an always-on market for crypto trading. :::
+:::note 
+Liquidity provider (LP) tokens are a reward mechanism to facilitate transactions between other different types of currencies. Decentralized exchanges rely on liquidity providers to ensure there is an always-on market for crypto trading. 
+:::
 
 ## Amount
 

@@ -12,7 +12,7 @@ We currently support the following cryptocurrencies:
 -   [WARP](https://docs.wardenprotocol.org/tokens/warp-token/warp) (coming soon)
 
 :::tip 
-Please note that you'll be able to unstake and claim your rewards only after the Warden Protocol and YieldWard go Mainnet. 
+Please note that you'll be able to unstake and claim your [rewards](rewards) after the [Warden Protocol](https://wardenprotocol.org) and YieldWard go mainnet. 
 :::
 
 ## Stake ETH/USDC/USDT
@@ -22,17 +22,16 @@ To stake **ETH**, **USDC**, or **USDT** and receive [rewards in LP tokens](rewar
 1. Get a [WARD address in SpaceWard](https://help.wardenprotocol.org/spaceward/connect-your-wallet).
 2. [Connect a Web3 Wallet](connect-your-wallet) to YieldWard.
 3. Fund your connected wallet and set its network to **Ethereum Mainnet**.
-4. Visit [YieldWard], select one of the available currencies, and click **Stake**.
+4. Visit [YieldWard] and click **Stake on LIDO** / **Stake on AAVE** next to your preferred currency.
 5. In the next step, enter the amount to deposit and paste your WARD address.
 6. Check the estimated staking APY and commission. Click **Stake**.
-7. If required, sign the transaction in your wallet.
+7. Approve the transaction in your wallet. Wait until it's confirmed and click **Done**.
 
 Now you can see the details of your stake and stake more, as explained here: [Manage your stake](manage-your-stake).
 
-:::warning 
-You won't be able to change your Warden address after staking. 
-:::
 
 ## Stake WARP
 
-Later you'll be able to stake Warden's [WARP](https://docs.wardenprotocol.org/tokens/warp-token/warp) token to earn more WARP. Stay tuned!
+Later you'll be able to stake Warden's [WARP token](https://docs.wardenprotocol.org/tokens/warp-token/warp) to get more WARP from the 1:1.2 airdrop at the [Warden Protocol](https://wardenprotocol.org) mainnet launch. WARP holders will also benefit from 1:1 [WARD](https://docs.wardenprotocol.org/tokens/ward-token/ward) airdrop.
+
+Stay tuned!

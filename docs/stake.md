@@ -30,7 +30,7 @@ To stake **ETH**, **USDC**, or **USDT** and receive [rewards in LP tokens](rewar
 Now you can see the details of your stake and stake more, as explained here: [Manage your stake](manage-your-stake).
 
 :::warning 
-You can't change your Warden address after staking. 
+You won't be able to change your Warden address after staking. 
 :::
 
 ## Stake WARP

@@ -29,6 +29,10 @@ To stake **ETH**, **USDC**, or **USDT** and receive [rewards in LP tokens](rewar
 
 Now you can see the details of your stake and stake more, as explained here: [Manage your stake](manage-your-stake).
 
+:::warning 
+You can't change your Warden address after staking. 
+:::
+
 ## Stake WARP
 
 Later you'll be able to stake Warden's [WARP](https://docs.wardenprotocol.org/tokens/warp-token/warp) token to earn more WARP. Stay tuned!

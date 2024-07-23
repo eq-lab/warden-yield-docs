@@ -7,7 +7,7 @@ sidebar_position: 4
 
 After [staking](stake), you can always manage your stake:
 
-1. Visit [YieldWard]. On the main page, you'll see your staked amount next to the each currency you've staked.
+1. Visit [YieldWard](https://yieldward.com). On the main page, you'll see your staked amount next to the each currency you've staked.
 
 2. Select one of the staked currencies and click **Manage**.
 

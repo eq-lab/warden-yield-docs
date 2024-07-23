@@ -25,7 +25,7 @@ To stake **ETH**, **USDC**, or **USDT** and receive [rewards in LP tokens](rewar
 
 3. Fund your connected wallet and set its network to **Ethereum Mainnet**.
 
-4. Visit [YieldWard] and click **Stake on LIDO** / **Stake on AAVE** next to your preferred currency.
+4. Visit [YieldWard](https://yieldward.com) and click **Stake on LIDO** / **Stake on AAVE** next to your preferred currency.
 
 ![Select the currency to stake in YieldWard](../static/img/stake-01.png)
 

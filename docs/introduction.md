@@ -12,6 +12,8 @@ Welcome to **YieldWard** – a revolutionary smart yield generator that automate
 
 YieldWard simplifies your yield and staking experience, letting you enjoy **effortless management**, **decentralized security**, and **optimal yields**.
 
+You can find the application here: [YieldWard homepage](https://yieldward.com).
+
 ## WARP
 
 [WARP](https://docs.wardenprotocol.org/tokens/warp-token/warp) is the native token driving YieldWard's ecosystem. It plays a crucial role in governance, yield maximization, and future loan repayment. With WARP, users can:

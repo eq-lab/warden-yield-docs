@@ -12,7 +12,7 @@ To use YieldWard, connect your **Web3 wallet** to your YieldWard account:
 	- 👉 [MetaMask](https://metamask.io)
 	- 👉 [Trust Wallet](https://trustwallet.com/ru)
 
-2. Open [YieldWard homepage] and click **Connect** in the top-right corner of the screen.
+2. Open [YieldWard homepage](https://yieldward.com) and click **Connect** in the top-right corner of the screen.
 
 ![Connect your wallet in YieldWard](../static/img/connect-your-wallet-01.png)
 

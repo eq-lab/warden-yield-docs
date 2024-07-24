@@ -40,6 +40,6 @@ That's it! Now you can check the details of your stake and stake more, as explai
 
 ## Stake WARP
 
-Later you'll be able to stake Warden's [WARP token](https://docs.wardenprotocol.org/tokens/warp-token/warp) to get more WARP from the 1:1.2 airdrop at the [Warden Protocol](https://wardenprotocol.org) mainnet launch.
+Starting from the **middle of August 2024**, you'll be able to stake Warden's [WARP token](https://docs.wardenprotocol.org/tokens/warp-token/warp). It'll allow you to get more WARP from the 1:1.2 airdrop at the [Warden Protocol](https://wardenprotocol.org) mainnet launch.
 
 Stay tuned!

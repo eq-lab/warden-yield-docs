@@ -25,7 +25,7 @@ To stake **ETH**, **USDC**, or **USDT** and receive [rewards in LP tokens](rewar
 
 3. Set the network of your connected wallet to **Ethereum Mainnet**.
 
-4. (?) Make sure that your wallet is funded with ETH and USDC/USDT if necessary.
+4. Make sure that your wallet is funded with ETH and USDC/USDT if necessary.
 
 5. Visit [YieldWard](https://yieldward.com).
 
@@ -54,7 +54,7 @@ Do the following:
 
 3. Set the network of your connected wallet to **Base Mainnet**.
 
-4. (?) Make sure that your wallet is funded with ETH and WARP.
+4. Make sure that your wallet is funded with ETH and WARP.
 
 5. Visit [YieldWard](https://yieldward.com).
 

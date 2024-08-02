@@ -4,12 +4,12 @@ sidebar_position: 3
 
 # Stake
 
-YieldWard allows you to **stake** (**deposit**) crypto and earn [rewards](rewards) to your Warden address.
+YieldWard allows you to **stake** (**deposit**) crypto in and earn [rewards](rewards) to your Warden address.
 
 We currently support the following cryptocurrencies:
 
--   **ETH**, **USDC**, **USDT**
--   [WARP](https://docs.wardenprotocol.org/tokens/warp-token/warp) (coming soon)
+- **ETH**, **USDC**, **USDT** in the Ethereum Mainnet
+- [WARP](https://docs.wardenprotocol.org/tokens/warp-token/warp) in the Base Mainnet
 
 :::tip 
 Please note that you'll be able to unstake and claim your [rewards](rewards) after the [Warden Protocol](https://wardenprotocol.org) and YieldWard go Mainnet. 
@@ -17,7 +17,9 @@ Please note that you'll be able to unstake and claim your [rewards](rewards) aft
 
 ## Stake ETH/USDC/USDT
 
-To stake **ETH**, **USDC**, or **USDT** and receive [rewards in LP tokens](rewards) to your Warden address, take these steps:
+You can stake **ETH**, **USDC**, or **USDT** in the Ethereum Mainnet and receive [rewards in LP tokens](rewards) to your Warden address.
+
+Take these steps:
 
 1. Get a [Warden address in SpaceWard](https://help.wardenprotocol.org/spaceward/connect-your-wallet).
 2. [Connect a Web3 Wallet](connect-your-wallet) to YieldWard.
@@ -34,14 +36,14 @@ To stake **ETH**, **USDC**, or **USDT** and receive [rewards in LP tokens](rewar
 
 ## Stake WARP
 
-You can stake Warden's [WARP token](https://docs.wardenprotocol.org/tokens/warp-token/warp). It'll allow you to get more WARP from the **1:1.2 airdrop** at the [Warden Protocol](https://wardenprotocol.org) mainnet launch.
+You can stake Warden's [WARP token](https://docs.wardenprotocol.org/tokens/warp-token/warp) in the Base Mainnet and get more WARP from the **1:1.2 airdrop** at the [Warden Protocol](https://wardenprotocol.org) Mainnet launch.
 
-Do the following:
+Take these steps:
 
 1. Get a [Warden address in SpaceWard](https://help.wardenprotocol.org/spaceward/connect-your-wallet).
 2. [Connect a Web3 Wallet](connect-your-wallet) to YieldWard.
 3. Set the network of your connected wallet to **Base Mainnet**.
-4. Make sure that your wallet is funded with ETH and WARP.
+4. Make sure that your wallet is funded with ETH and WARP. To enable WARP in the wallet, use WARP smart contact address: `0x3c8665472ec5aF30981B06B4E0143663EBeDcc1E`.
 5. Visit [YieldWard](https://yieldward.com).
 6. Next to **WARP**, click **Stake**.
 7. In the next step, enter the amount to deposit.

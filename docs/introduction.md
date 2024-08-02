@@ -22,11 +22,8 @@ You can find the application here: [YieldWard homepage](https://yieldward.com).
 - Maximize their yield potential
 - Repay future loans seamlessly
 
-At the [Warden Protocol](https://wardenprotocol.org) mainnet launch, you'll benefit from 1:1 [WARD](https://docs.wardenprotocol.org/tokens/ward-token/ward) airdrop at Warden Protocol's mainnet launch.
+At the [Warden Protocol](https://wardenprotocol.org) Mainnet launch, you'll benefit from 1:1 [WARD](https://docs.wardenprotocol.org/tokens/ward-token/ward) airdrop at Warden Protocol's Mainnet launch.
 
-:::tip
-Staking WARP will be available **this summer**.
-:::
 
 ## Get started
 

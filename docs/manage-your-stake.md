@@ -16,7 +16,7 @@ After [staking](stake), you can always manage your stake:
 3. On the next screen, you can check the details of your stake. To stake more, click **Stake More**.
 
 :::tip 
-You can [stake more](manage-your-stake) of the same asset but only using the **same Warden address**. However, you can use other Warden addresses for other assets.
+You can [stake more](manage-your-stake) of the same asset but only using the **same Warden address**. You can use other Warden addresses for other assets.
 :::
 
 :::tip

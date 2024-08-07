@@ -24,7 +24,7 @@ You can view the details of your stake and stake more at any moment:
 
 3. You'll see the details of your stake. To stake more, click **Stake More**.
 
-4. Approve the transaction in your wallet. Wait until it's confirmed a nd click **Done**.
+4. Approve the transaction in your wallet. Wait until it's confirmed and click **Done**.
 
 :::note 
 When staking more, you can't change the **Warden address** for receiving rewards. However, you can specify another Warden address when staking another asset.
@@ -32,7 +32,7 @@ When staking more, you can't change the **Warden address** for receiving rewards
 
 ## Claim WARP bonuses
 
-For staking each of the Ethereum Mainnet assets, you receive boosted % yield (APY) in [WARP tokens](https://docs.wardenprotocol.org/tokens/warp-token/warp) in the Base Mainnet.
+For staking each of the Ethereum Mainnet assets, you receive boosted % yield (APY) in [WARP tokens](https://docs.wardenprotocol.org/tokens/warp-token/warp) on the Base Mainnet.
 
 You can start claiming bonuses when the earned amount is above **100 WARPs**. Please note that you can claim only **all WARP at once**.
 
@@ -46,7 +46,7 @@ You can start claiming bonuses when the earned amount is above **100 WARPs**. Pl
 
 4. Approve the transaction in your wallet. Wait until it's confirmed.
 
-5. If you wish to stake your WARP in the Base Mainnet, click **Stake**. Otherwise, click **Done**.
+5. If you wish to stake your WARP on the Base Mainnet, click **Stake**. Otherwise, click **Done**.
 
 :::warning
 Staking your WARP bonus will allow you to get WARD from the 1:1.2 airdrop on the Warden Protocol mainnet launch. Until then, your WARP will be locked.

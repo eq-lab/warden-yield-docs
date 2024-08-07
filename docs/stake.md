@@ -14,12 +14,12 @@ We currently support the following assets:
 - [WARP](https://docs.wardenprotocol.org/tokens/warp-token/warp) in the Base Mainnet
 
 :::warning 
-Please note that you'll be able to unstake and claim your [rewards](earn-rewards) only after the [Warden Protocol](https://wardenprotocol.org) and YieldWard go Mainnet. The only exception is [WARP bonuses](manage-your-stake#claim-warp-bonuses).
+Please note that you'll be able to unstake and claim your rewards only after the Warden Protocol and YieldWard go mainnet. The only exception is [WARP bonuses](manage-your-stake#claim-warp-bonuses).
 :::
 
 ## Stake ETH/USDC/USDT
 
-You can stake **ETH**, **USDC**, or **USDT** in the Ethereum Mainnet. After the Warden Protocol Mainnet launch, you'll receive LP tokens to your Warden address. Additionally, you'll earn WARP tokens in the Base Mainnet, which you can claim before the Mainnet.
+You can stake **ETH**, **USDC**, or **USDT** in the Ethereum Mainnet. After the Warden Protocol mainnet launch, you'll receive **LP tokens** to your Warden address. Additionally, you'll earn **WARP tokens** in the Base Mainnet, which you can claim before the mainnet.
 
 1. Get a [Warden address in SpaceWard](https://help.wardenprotocol.org/spaceward/connect-your-wallet).
 2. [Connect a Web3 Wallet](connect-your-wallet) to YieldWard.
@@ -36,7 +36,7 @@ You can stake **ETH**, **USDC**, or **USDT** in the Ethereum Mainnet. After the 
 
 ## Stake WARP
 
-You can stake Warden's [WARP token](https://docs.wardenprotocol.org/tokens/warp-token/warp) in the Base Mainnet and get WARD from the 1:1.2 airdrop at the Warden Protocol Mainnet launch:
+You can stake Warden's [WARP token](https://docs.wardenprotocol.org/tokens/warp-token/warp) in the Base Mainnet and get **WARD** from the **1:1.2 airdrop** at the Warden Protocol Mainnet launch:
 
 1. Get a [Warden address in SpaceWard](https://help.wardenprotocol.org/spaceward/connect-your-wallet).
 2. [Connect a Web3 Wallet](connect-your-wallet) to YieldWard.

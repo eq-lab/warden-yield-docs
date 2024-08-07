@@ -24,7 +24,6 @@ You can find the application here: [YieldWard homepage](https://yieldward.com).
 
 At the [Warden Protocol](https://wardenprotocol.org) mainnet launch, you'll benefit from **1:1.2** [WARD](https://docs.wardenprotocol.org/tokens/ward-token/ward) airdrop.
 
-
 ## Get started
 
 This documentation explains how to start using YieldWard, stake, and manage your stake and rewards. To get started, just [connect your wallet](connect-your-wallet).

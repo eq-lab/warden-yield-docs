@@ -40,8 +40,6 @@ You can start claiming bonuses when the earned amount is above **100 WARPs**. Pl
 
 2. In the top-right corner of the main page, click the WARP icon.
 
-![Manage your WARP stake in YieldWard](../static/img/manage-your-stake-02.png)
-
 3. You'll see the total amount of WARP earned for all stakes. Click **Claim WARP**.
 
 4. Approve the transaction in your wallet. Wait until it's confirmed.

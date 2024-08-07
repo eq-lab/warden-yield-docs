@@ -11,7 +11,7 @@ After [staking](stake), you can always manage your stake: view its details, stak
 ![Manage your stake in YieldWard](../static/img/manage-your-stake-01.png)
 
 :::warning
-Please note that you'll be able to unstake and claim your [rewards](earn-rewards) only after the [Warden Protocol](https://wardenprotocol.org) and YieldWard go Mainnet. The only exception is [WARP bonuses](#claim-warp-bonuses)
+Please note that you'll be able to unstake and claim your [rewards](earn-rewards) only after the [Warden Protocol](https://wardenprotocol.org) and YieldWard go Mainnet. The only exception is [WARP bonuses](#claim-warp-bonuses).
 :::
 
 ## Stake more

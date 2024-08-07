@@ -29,9 +29,9 @@ When staking more, you can't change the **Warden address** for receiving rewards
 
 ## Claim WARP bonuses
 
-For staking each of the Ethereum Mainnet assets, you receive a [WARP](https://docs.wardenprotocol.org/tokens/warp-token/warp) bonus in the Base Mainnet.
+For staking each of the Ethereum Mainnet assets, you receive boosted % yield (APY) in [WARP](https://docs.wardenprotocol.org/tokens/warp-token/warp) tokens in the Base Mainnet.
 
-You can claim your bonuses after the total reward for all stakes exceeds **100 WARPs**. Please note that you can claim only **all WARP at once**.
+You can start claiming bonuses when the earned amount is above **100 WARPs**. Please note that you can claim only **all WARP at once**.
 
 1. Visit [YieldWard](https://yieldward.com).
 2. On the main page, click **Manage** on your staked currency.

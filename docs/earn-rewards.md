@@ -28,4 +28,4 @@ For [staking ETH/USDC/USDT](stake#stake-ethusdcusdt) in the Ethereum Mainnet, yo
 
 ## Rewards for staking WARP
 
-For [staking WARP](stake#stake-warp) in the Base Mainnet, you'll receive more [WARD](https://docs.wardenprotocol.org/tokens/ward-token/ward) from the **1:1.2 airdrop** at the Warden Protocol  Mainnet launch.
+For [staking WARP](stake#stake-warp) in the Base Mainnet, you'll receive [WARD](https://docs.wardenprotocol.org/tokens/ward-token/ward) from the **1:1.2 airdrop** at the Warden Protocol  Mainnet launch.

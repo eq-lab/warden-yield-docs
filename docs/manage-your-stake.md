@@ -47,3 +47,5 @@ Staking your WARP bonus will allow you to get more WARP from the 1:1.2 airdrop o
 :::note
 If you don't stake WARP immediately, you can do it later, as shown in [Stake WARP](stake#stake-warp).
 :::
+
+В бонусы можно сразу попасть по значку рядом с кошельком, там отражена общая сумма доступных для клейма Варпов, через Manage - это длинный путь, он интересе только для просмотра заработка по конкретному стейку, хоть из него и можно потом перейти к общему количеств

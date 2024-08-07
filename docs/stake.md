@@ -36,7 +36,7 @@ You can stake **ETH**, **USDC**, or **USDT** in the Ethereum Mainnet. After the 
 
 ## Stake WARP
 
-You can stake Warden's [WARP token](https://docs.wardenprotocol.org/tokens/warp-token/warp) in the Base Mainnet and get **WARD** from the **1:1.2 airdrop** at the Warden Protocol Mainnet launch:
+You can stake Warden's [WARP token](https://docs.wardenprotocol.org/tokens/warp-token/warp) in the Base Mainnet and get [WARD](https://docs.wardenprotocol.org/tokens/warp-token/ward) from the **1:1.2 airdrop** at the Warden Protocol Mainnet launch:
 
 1. Get a [Warden address in SpaceWard](https://help.wardenprotocol.org/spaceward/connect-your-wallet).
 2. [Connect a Web3 Wallet](connect-your-wallet) to YieldWard.

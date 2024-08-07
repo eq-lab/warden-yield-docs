@@ -36,7 +36,7 @@ Take these steps:
 
 ## Stake WARP
 
-You can stake Warden's [WARP token](https://docs.wardenprotocol.org/tokens/warp-token/warp) in the Base Mainnet and get [WARD](https://docs.wardenprotocol.org/tokens/warp-token/ward) from the **1:1.2 airdrop** at the [Warden Protocol](https://wardenprotocol.org) Mainnet launch.
+You can stake Warden's [WARP token](https://docs.wardenprotocol.org/tokens/warp-token/warp) in the Base Mainnet and get [WARD](https://docs.wardenprotocol.org/tokens/ward-token/ward) from the **1:1.2 airdrop** at the [Warden Protocol](https://wardenprotocol.org) Mainnet launch.
 
 Take these steps:
 

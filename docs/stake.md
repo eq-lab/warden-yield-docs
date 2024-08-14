@@ -4,22 +4,22 @@ sidebar_position: 3
 
 # Stake
 
-YieldWard allows you to **stake** (**deposit**) crypto in and earn [rewards](rewards) to your Warden address.
+## Overview
 
-We currently support the following cryptocurrencies:
+YieldWard allows you to **stake** (**deposit**) crypto and [earn rewards](earn-rewards) to your Warden address.
 
-- **ETH**, **USDC**, **USDT** in the Ethereum Mainnet
-- [WARP](https://docs.wardenprotocol.org/tokens/warp-token/warp) in the Base Mainnet
+We currently support the following assets:
 
-:::tip 
-Please note that you'll be able to unstake and claim your [rewards](rewards) after the [Warden Protocol](https://wardenprotocol.org) and YieldWard go Mainnet. 
+- **ETH**, **USDC**, **USDT** on the Ethereum Mainnet
+- [WARP](https://docs.wardenprotocol.org/tokens/warp-token/warp) on the Base Mainnet
+
+:::warning 
+Please note that you'll be able to unstake and claim your rewards only after the Warden Protocol and YieldWard go mainnet. The only exception is [WARP bonuses](manage-your-stake#claim-warp-bonuses).
 :::
 
 ## Stake ETH/USDC/USDT
 
-You can stake **ETH**, **USDC**, or **USDT** in the Ethereum Mainnet and receive [rewards in LP tokens](rewards) to your Warden address.
-
-Take these steps:
+You can stake **ETH**, **USDC**, or **USDT** on the Ethereum Mainnet. After the Warden Protocol mainnet launch, you'll receive **LP tokens** to your Warden address. Additionally, you'll earn **WARP tokens** on the Base Mainnet, which you can claim before the Warden mainnet launch.
 
 1. Get a [Warden address in SpaceWard](https://help.wardenprotocol.org/spaceward/connect-your-wallet).
 2. [Connect a Web3 Wallet](connect-your-wallet) to YieldWard.
@@ -36,9 +36,7 @@ Take these steps:
 
 ## Stake WARP
 
-You can stake Warden's [WARP token](https://docs.wardenprotocol.org/tokens/warp-token/warp) in the Base Mainnet and get [WARD](https://docs.wardenprotocol.org/tokens/ward-token/ward) from the **1:1.2 airdrop** at the [Warden Protocol](https://wardenprotocol.org) Mainnet launch.
-
-Take these steps:
+You can stake Warden's [WARP token](https://docs.wardenprotocol.org/tokens/warp-token/warp) on the Base Mainnet and get [WARD](https://docs.wardenprotocol.org/tokens/ward-token/ward) from the **1:1.2 airdrop** at the Warden Protocol Mainnet launch:
 
 1. Get a [Warden address in SpaceWard](https://help.wardenprotocol.org/spaceward/connect-your-wallet).
 2. [Connect a Web3 Wallet](connect-your-wallet) to YieldWard.
